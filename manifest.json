@@ -18,7 +18,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }],
-  "start_url": "http://localhost/pwa/index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "orientation": "potrait",
   "background_color": "#ffffff",
@@ -28,7 +28,7 @@
       "name": "MIKA APPS",
       "short_name": "MIKA Testing",
       "description": "MIKA Testing Apps",
-      "url": "http://localhost/pwa/index.html",
+      "url": "/index.html",
       "icons": [{ "src": "assets/img/logo-mika-192.png", "sizes": "192x192" }]
     }
   ]
