@@ -1,0 +1,36 @@
+{
+  "name": "MIKA APPS",
+  "short_name": "MIKA Testing",
+  "icons": [{
+    "src": "assets/img/logo-mk-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },{
+	"src": "assets/img/logo-mika-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },{
+      "src": "assets/img/logo-mika-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+	},{
+      "src": "assets/img/logo-mika-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "http://localhost/pwa/index.html",
+  "display": "standalone",
+  "orientation": "potrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "MIKA APPS",
+      "short_name": "MIKA Testing",
+      "description": "MIKA Testing Apps",
+      "url": "http://localhost/pwa/index.html",
+      "icons": [{ "src": "assets/img/logo-mika-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
+
