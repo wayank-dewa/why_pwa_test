@@ -1,10 +1,10 @@
 var cname='swcache-v1';
 var urlc=[
-'http://localhost/pwa/index.html',
-'http://localhost/pwa/assets/css/main.css',
-'http://localhost/pwa/assets/js/main.js',
-'http://localhost/pwa/assets/js/functions-min.js',
-'http://localhost/pwa/assets/js/vendor/jquery-2.2.4.min.js',
+'/index.html',
+'/assets/css/main.css',
+'/assets/js/main.js',
+'/assets/js/functions-min.js',
+'/assets/js/vendor/jquery-2.2.4.min.js',
 ];
 
 self.addEventListener('install', function(event) {
